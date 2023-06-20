@@ -36,16 +36,17 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #f50519;
+  background: #444444;
   width: 40px;
   height: 40px;
   border-radius: 4px;
   transition: all 0.4s;
+  color: white !important;
 }
 
 .back-to-top i {
   font-size: 28px;
-  color: #151515;
+color: white;
   line-height: 0;
 }
 
@@ -938,8 +939,8 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #151515;
-  background: #ffc451;
+  color: white;
+  background: #e60e0e;
 }
 
 .team .member .social i {
